@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-left:1%;
+}
+
+body{
+    font-size:medium;
+    background-color: red;
+}
+
+#foto{
+    width:14.5%;
+    display: inline-block;
+    
+}
+
+#foto img{
+    width:100%;
+}
+
+#contatti{
+    width:68%;
+    display: inline-block;
+    font-size: 1.6em;
+    background-color: cadetblue;  
+    padding:2%;
+    margin-left:2%;
+    margin-top:1%;
+    
+}
+
+#contatti ul{
+    list-style-type:none;
+
+}
+
+.sezione{
+    background-color:orange;
+    padding-left:2%;
+    padding-bottom: 3%;
+    padding-top:1%;
+    width:45%;
+    display:inline-block;
+    margin-top:2%;
+    
+}
+.sezione h2{
+    color:purple;
+    text-decoration:underline;
+    text-align:center;
+}
+
+.sezione h4{
+    color: green;
+    font-size: 100%;
+}
+
+.sezione h3{
+    background-color:yellow;
+    display: inline;
+}
+
+.sezione ul{
+    padding-left:5%;
+    margin-top: 1%;
+}
+
+#lingue{
+    width:93.4%;
+    display:inline-block;
+    margin-bottom:1%; 
+    background-color:#ffa07a ;
+}
+
+#lingue ul{
+    margin-left:40%;
+}
